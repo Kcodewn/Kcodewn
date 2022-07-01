@@ -1,7 +1,7 @@
 <img src="https://blog.zoho.com/wp-content/uploads/2019/08/new-Converted.gif"/>
 
 <h1 align="center">Hi 👋, I'm Khanh Nguyen</h1>
-<h3 align="center">I am Computer Science Major At Texas State University!</h3>
+<h3 align="center">I am a Junior majoring in Computer Science at Texas State University!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kcodewn&label=Profile%20views&color=0e75b6&style=flat" alt="kcodewn" /> </p>
 
