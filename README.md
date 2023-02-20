@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kcodewn&label=Profile%20views&color=0e75b6&style=flat" alt="kcodewn" /> </p>
 
-- 🔭 I’m currently working on **Weather App and other Simple projects**
+- 🔭 I’m currently working on **A weather tracking app and other Simple projects**
 
 - 🌱 I’m currently learning **C++ and Assembly Language**
 
