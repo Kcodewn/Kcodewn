@@ -5,15 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kcodewn&label=Profile%20views&color=0e75b6&style=flat" alt="kcodewn" /> </p>
 
-- 🔭 I’m currently working on **A Bug Tracker Project**
+- 🔭 I’m currently working on **Weather App and other Simple projects**
 
-- 🌱 I’m currently learning **Django and SQLite**
+- 🌱 I’m currently learning **C++ and Assembly Language**
 
 - 📫 How to reach me **Kcodewn@gmail.com**
 
 - 📄 Know about my experiences [https://kcodewn.github.io/](https://kcodewn.github.io/)
-
-- ⚡ Fun fact **I love to collaborate with others!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
