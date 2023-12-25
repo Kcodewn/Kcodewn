@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **Kcodewn@gmail.com**
 
-- 📄 Know about my experiences [https://kcodewn.github.io/](https://kcodewn-portfolio.vercel.app/)
+- 📄 Know about my experiences [https://kcodewn-portfolio/](https://kcodewn-portfolio.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
