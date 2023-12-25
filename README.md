@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kcodewn&label=Profile%20views&color=0e75b6&style=flat" alt="kcodewn" /> </p>
 
-- 🔭 I’m currently working on **A weather tracking app and other Simple projects**
+- 🔭 I’m currently working on **A 3D Portfolio Website.**
 
-- 🌱 I’m currently learning **C++ and Assembly Language**
+- 🌱 I’m currently learning **Golang and JavaScript**
 
 - 📫 How to reach me **Kcodewn@gmail.com**
 
-- 📄 Know about my experiences [https://kcodewn.github.io/](https://kcodewn.github.io/)
+- 📄 Know about my experiences [https://kcodewn.github.io/](https://kcodewn-portfolio.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
